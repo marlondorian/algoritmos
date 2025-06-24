@@ -3,12 +3,13 @@ body {
 
 }
 .br{
+    padding: 20px;
     border-width: 3rem;
     border-color: aliceblue;
     display: grid;
     justify-items: center;
     background-color:rgb(80, 72, 55);
-    margin: 1rem;
+    margin: 20px;
     border-radius: 1rem;    
     box-shadow: 10px 10px 30px rgba(56, 53, 39, 0.486);
     color: aliceblue;
