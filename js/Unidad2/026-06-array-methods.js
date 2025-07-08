@@ -13,6 +13,10 @@ const carrito = [
 
 let resultado;
 
+
+
+
+
 resultado = carrito.every(producto => producto.precio >=2000)
 resultado = meses.concat(meses2,meses3)
 
