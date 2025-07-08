@@ -16,4 +16,15 @@ let resultado;
 resultado = carrito.every(producto => producto.precio >=2000)
 resultado = meses.concat(meses2,meses3)
 
-console.log(resultado);
+let elemento;
+
+elemento = document;
+elemento = document.head;
+elemento = document.body;
+elemento = document.domain;
+
+
+elemento = document.forms[0];
+elemento = document.head;
+
+console.log(elemento);
