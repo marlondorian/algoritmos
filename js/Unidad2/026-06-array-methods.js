@@ -18,13 +18,16 @@ resultado = meses.concat(meses2,meses3)
 
 let elemento;
 
-elemento = document;
+
 elemento = document.head;
 elemento = document.body;
 elemento = document.domain;
 
 
 elemento = document.forms[0];
-elemento = document.head;
+elemento = document.links;
+elemento = document.images;
+elemento = document;
+//elemento = document.getElementById[]
 
 console.log(elemento);
